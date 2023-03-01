@@ -27,6 +27,9 @@ export default function SiteHeader({ className }) {
                     <li>
                         <Link href="/contact">Contact</Link>
                     </li>
+                    <li>
+                        <Link href="/restaurants">Restaurants</Link>
+                    </li>
                 </ul>
             </nav>
         </header>

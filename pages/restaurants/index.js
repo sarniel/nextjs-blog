@@ -1,7 +1,7 @@
 import Head from "next/head";
-import SiteHeader from "../components/SiteHeader";
-import SiteFooter from "../components/SiteFooter";
-import { getPageSlugs, getSinglePage } from "../lib/pages";
+import SiteHeader from "../../components/SiteHeader";
+import SiteFooter from "../../components/SiteFooter";
+import { getPageSlugs, getSinglePage } from "../../lib/pages";
 
 export default function Page({ pageData }) {
     return (
