@@ -25,6 +25,15 @@ export default function Home() {
                         <h1 className="text-6xl text-center text-slate-100">
                             Welcome to{" "}
                             <span className="text-yellow-400">CoolNomad</span>{" "}
+                            <h2>SARNIEL MORGIA</h2>
+                            <p>
+                                Lorem ipsum dolor sit amet consectetur
+                                adipisicing elit. Voluptates eligendi atque
+                                commodi eaque magnam corrupti porro voluptatem
+                                maiores. Inventore, adipisci? Dolorum accusamus
+                                autem hic harum dolorem eius at earum
+                                perspiciatis!
+                            </p>
                         </h1>
                         <div className="mt-20">
                             <Link
