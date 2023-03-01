@@ -25,7 +25,6 @@ export default function Home() {
                         <h1 className="text-6xl text-center text-slate-100">
                             Welcome to{" "}
                             <span className="text-yellow-400">CoolNomad</span>{" "}
-                            Travel Blog Test
                         </h1>
                         <div className="mt-20">
                             <Link
